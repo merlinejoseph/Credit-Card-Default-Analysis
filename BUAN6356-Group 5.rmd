@@ -1,6 +1,5 @@
 ---
 title: "Credit Card Default Analysis"
-author: "John Paul, Merline Joseph, Piyush Singh, Suman Lohit"
 date: "24/11/2020"
 output: 
   pdf_document: 
